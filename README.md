@@ -1,12 +1,3 @@
-# test
-#test >> README.md
-echo #test
-#test >> README.md
-echo #test
-#test >> README.md
-echo #test
-#test
-#test >> README.md
-echo #test
-# APPDEV
-# APPDEV
+https://github.com/JIANGYIFENGPI/wifiscan
+# wifiscan
+# wifiscan
